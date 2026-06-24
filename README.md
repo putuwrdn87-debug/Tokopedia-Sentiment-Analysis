@@ -95,11 +95,11 @@ Random Forest achieved the best performance with:
 
 ### SMOTE Distribution
 
-![SMOTE Distribution](images/smote_distribution.png)
+![SMOTE Distribution](images/Distibusi_Sentimen_Sebelum_vs_Setelah_SMOTE.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix_rf.png)
+![Confusion Matrix](images/Confusion_Matrix_RF_vs_LR.png)
 
 ---
 
