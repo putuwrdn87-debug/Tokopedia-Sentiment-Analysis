@@ -87,7 +87,7 @@ Random Forest achieved the best performance with:
 
 ### Positive Sentiment Word Cloud
 
-![Positive Word Cloud](images/wordcloud_positive.png)
+![Positive Word Cloud](wordcloud_positive.png)
 
 ### Negative Sentiment Word Cloud
 
