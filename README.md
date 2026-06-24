@@ -91,15 +91,15 @@ Random Forest achieved the best performance with:
 
 ### Negative Sentiment Word Cloud
 
-![Negative Word Cloud](images/wordcloud_negative.png)
+![Negative Word Cloud](wordcloud_negative.png)
 
 ### SMOTE Distribution
 
-![SMOTE Distribution](images/Distibusi_Sentimen_Sebelum_vs_Setelah_SMOTE.png)
+![SMOTE Distribution](Distibusi_Sentimen_Sebelum_vs_Setelah_SMOTE.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/Confusion_Matrix_RF_vs_LR.png)
+![Confusion Matrix](Confusion_Matrix_RF_vs_LR.png)
 
 ---
 
