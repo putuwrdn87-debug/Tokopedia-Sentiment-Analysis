@@ -132,6 +132,3 @@ Random Forest achieved the best performance with:
 ## Author
 
 Putu Wardani
-
-Master's Degree in Information Systems  
-ITB STIKOM Bali
